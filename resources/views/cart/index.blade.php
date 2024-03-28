@@ -1,5 +1,5 @@
 @extends('layouts.user-layout')
 
 @section('content')
-    <h1>Home</h1>
+    <h1>dasjklfkfjk</h1>
 @endsection
